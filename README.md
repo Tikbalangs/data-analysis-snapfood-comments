@@ -29,6 +29,7 @@ characters. Therefore, it is loaded with:
 
 ```python
 pd.read_csv(DATA_PATH, sep="\t")
+```
 
 Download the SnappFood Persian Sentiment Analysis dataset from Kaggle.
 
@@ -38,8 +39,6 @@ snappfood_comments.csv
 
 
 And:
-
-````markdown
 Install the libraries with:
 
 ```bash
